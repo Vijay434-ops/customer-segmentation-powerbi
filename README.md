@@ -1,30 +1,29 @@
-## Customer Segmentation using SQL and Power BI
+# Customer Segmentation using SQL and Power BI
 
-## Project Overview
-This project focuses on segmenting customers based on demographic details and purchasing behavior to support data-driven business decisions.
+## 📌 Project Overview
+This project focuses on segmenting customers based on demographic details and purchasing behavior to derive meaningful business insights. The analysis helps identify high-value customer groups and understand shopping patterns for better decision-making.
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - SQL
 - Power BI
 - Excel
 
-## Business Objectives
-- Understand shopping distribution by gender
-- Identify customer segments purchasing higher quantities
-- Analyze purchasing patterns across product categories
+## 🎯 Business Objectives
+- Analyze shopping distribution based on gender
+- Identify which customer segments purchase higher quantities
+- Understand category-wise purchasing behavior
 - Support marketing and customer targeting strategies
 
-## Key Analysis Performed
-- Gender-wise customer distribution
+## 📊 Analysis Performed
+- Gender-wise customer distribution analysis
 - Quantity purchased by different customer segments
-- Category-level purchasing behavior
-- KPI analysis for business insights
+- Product category-level analysis
+- KPI-based insights for business performance evaluation
 
-## Dashboard Features
+## 📈 Dashboard Features
 - Interactive slicers and filters
 - KPI cards for quick insights
-- Bar and pie charts for customer segmentation
-- Clean and business-friendly layout
+- Bar and pie charts for segmentation analysis
+- Clean and business-focused visual layout
 
-## Outcome
-Identified high-value customer segments and provided insights to improve sales and targeted marketing strategies.
+## 📁 Repository Structure
